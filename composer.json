@@ -1,0 +1,8 @@
+{
+  "require": {
+    "illuminate/database": "*",
+    "illuminate/pagination": "*",
+	"philo/laravel-blade": "*",
+	"doctrine/dbal": "*"
+  }
+}
